@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sistema-de-Cadastro-de-Funcion-rios-e-Hospedando-na-Nuvem-Azure.props" />
+</Project>

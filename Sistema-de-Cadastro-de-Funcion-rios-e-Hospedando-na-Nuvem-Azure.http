@@ -1,0 +1,6 @@
+@Sistema_de_Cadastro_de_Funcion_rios_e_Hospedando_na_Nuvem_Azure_HostAddress = http://localhost:5167
+
+GET {{Sistema_de_Cadastro_de_Funcion_rios_e_Hospedando_na_Nuvem_Azure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
